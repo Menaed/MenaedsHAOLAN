@@ -2,6 +2,9 @@
   "dependencies": {
     "com.vrchat.avatars": {
       "version": "3.7.5"
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.5"
     }
   },
   "locked": {
@@ -13,6 +16,10 @@
     },
     "com.vrchat.base": {
       "version": "3.7.5",
+      "dependencies": {}
+    },
+    "jp.lilxyzw.liltoon": {
+      "version": "1.8.5",
       "dependencies": {}
     }
   }
